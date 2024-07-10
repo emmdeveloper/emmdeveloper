@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <h3 align="center">A Passionate Software Engineer with expertise in Full-stack Development</h3>
-<img   align="right" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="Coding" width="400px"/>
+<img   align="right" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding" width="400px"/>
 
 
 <p align="left"> <a href="https://twitter.com/keshichidera" target="blank"><img src="https://img.shields.io/twitter/follow/keshichidera?logo=twitter&style=for-the-badge" alt="keshichidera" /></a> </p>
