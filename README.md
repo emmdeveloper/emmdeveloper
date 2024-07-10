@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <h3 align="center">A Passionate Software Engineer with expertise in Full-stack Development</h3>
 <img   align="right" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="Coding" width="400px"/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmdeveloper" alt="emmdeveloper" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/keshichidera" target="blank"><img src="https://img.shields.io/twitter/follow/keshichidera?logo=twitter&style=for-the-badge" alt="keshichidera" /></a> </p>
 
