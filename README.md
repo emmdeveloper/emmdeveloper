@@ -8,14 +8,19 @@
 
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://mke.vercel.app)
-<p align="left"> <a href="https://twitter.com/keshichidera" target="blank"><img src="https://img.shields.io/twitter/follow/keshichidera?logo=twitter&style=for-the-badge" alt="keshichidera" /></a> </p>
+
+  
+<a align="left" href="mailto:keshichidera@gmail.com" style="text-decoration: none;"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/mkeshi" style="text-decoration: none;"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
+<a  href="https://twitter.com/keshichidera" style="text-decoration: none;"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/> </a>
 
 ---
 
-## ⚒ Languages and Tools
+<h1 align="center"> ⚒Languages-Framework-Tools⚒ </h1>
 
 
-<img align="left" alt="HTML" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<div align="center">
+  <img align="left" alt="HTML" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="tailwindCSS" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img  align="left" alt="SASS" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
@@ -35,5 +40,6 @@
 <img  align="left" alt="rr" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" />
 <img  align="left" alt="figma" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img align="left" alt="xd" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" />
+</div>
 
 
