@@ -1,6 +1,6 @@
 <h1>🤖 Keshi C. Emmanuel</h1>
 
-**`Digital Master (Software Engineer | Full-Stack Development / Tech enthusiast)`**
+**`Digital Master (Software Engineer | 🚀 Full-Stack Engineer & Developer (Typescript | React | Next.js) 🤖/ Tech enthusiast)`**
 
 <p>
   I'm a Creative software engineer and Enthusiastic problem-solver leveraging full-stack development skills to craft tech-driven solutions that make a positive impact in the world!
